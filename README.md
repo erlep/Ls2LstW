@@ -1,4 +1,4 @@
-# Ls2LstW v1.0c - from 17.03.2021 16:50
+# Ls2LstW v1.0d - from 18.03.2021 07:46
 
 Ls2LstW is bash & Perl script to convert output of ls command to .LstW format
 
