@@ -161,9 +161,4 @@ whoami    >  lst.txt
 pwd       >> lst.txt
 ls -laR / >> lst.txt
 
-adresare
-d:\Peg\Prg\Perl\ls2Lst\ls2Lst\
-\\\Secure FTP\EK3_peg\Fldr1\peg\ls2Lst\
-\\\Secure FTP\EK3_peg\Fldr1\Videa\Grabuj\zz\
-
 __END__
