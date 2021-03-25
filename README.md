@@ -4,7 +4,11 @@ Ls2LstW is bash & Perl script to convert output of ls command to .LstW format
 
 ## Purpose
 
-Convert output of unix bash comand "ls" to ToTal Commander diskdir_list \*.LstW format
+Convert output of unix bash comand "ls" to Total Commander DiskDirW extension in \*.LstW format
+
+Total Commander - https://www.ghisler.com
+
+DiskDirW (Unicode) - http://totalcmd.net/plugring/diskdirw.html
 
 ## To Run Use Commands
 
